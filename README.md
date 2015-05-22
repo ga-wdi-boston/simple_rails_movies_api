@@ -3,8 +3,7 @@
 
 ## Simple Rails Movie API.
 
-This is used to provide a very simple API for Movies.
-
+This is *very* simple Rails application that will provide a very simple API for Movies.
 
 It's typically used to provide a backend for early Ajax lessons.
 
@@ -13,7 +12,11 @@ It's typically used to provide a backend for early Ajax lessons.
 
 **Clone to your local machine.**
 
-`git clone git@github.com:ga-wdi-boston/simple_rails_movies_api.git`
+```
+git clone git@github.com:ga-wdi-boston/simple_rails_movies_api.git
+
+cd simple_rails_movies
+```
 
 **Download and install Ruby gems used by this Rails applicaiton**
 
